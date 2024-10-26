@@ -1,0 +1,3 @@
+C:/Users/herli/Desktop/C++/c++ percobaan/cmake-build-debug/CMakeFiles/c___percobaan.dir
+C:/Users/herli/Desktop/C++/c++ percobaan/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/herli/Desktop/C++/c++ percobaan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
